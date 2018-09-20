@@ -1,0 +1,28 @@
+_repo: Mrs-Peixada_52702
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harland, Henry
+    alias: Luska, Sidney
+    birthdate: 1861
+    deathdate: 1905
+    gutenberg_agent_id: '1810'
+    url: http://www.gutenberg.org/2009/agents/1810
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Harland
+description: ''
+gutenberg_issued: '2016-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52702'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legal stories'
+- !lcsh 'Jews -- Fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcc 'PS'
+- GITenberg
+title: Mrs Peixada
+url: http://www.gutenberg.org/ebooks/52702
